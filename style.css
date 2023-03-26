@@ -109,8 +109,8 @@ li
 	align-content: right;
 }
 form {
-	width: 400px;
-	margin: 0 auto;
+	width: 500px;
+	margin: 0 auto ;
 	padding: 20px;
 	border: 1px solid #ccc;
 	background-color: #f7f7f7;
@@ -126,7 +126,7 @@ form {
   input[type="text"],
   input[type="email"],
   textarea {
-	width: 100%;
+	width: 80%;
 	padding: 10px;
 	border: 1px solid #ccc;
 	border-radius: 4px;
